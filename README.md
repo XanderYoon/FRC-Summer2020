@@ -1,4 +1,4 @@
-# InfiniteRecharge2020
+# InfiniteRecharge (Summer 2020)
 JCHS Gladiator Robotics Team's Github Repository for 2020 season (Infinite Recharge Game)
 
 # Autonomous Motor Control
